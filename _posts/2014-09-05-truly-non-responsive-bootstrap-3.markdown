@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Make Bootstrap 3 Really Non-Responsive"
+title:  "Truly Non-Responsive Bootstrap 3"
 date:   2014-09-05 03:56:47
 ---
 
