@@ -44,24 +44,6 @@ Note:
 
 3. `width` of `.container` is required as stated in [Official Guide][1]
 
-Ideally we should set
-
-{% highlight scss %}
-$screen-sm-min: 1px;
-$screen-md-min: 3px;
-{% endhighlight %}
-
-So that Bootstrap will set following screen sizes
-
-| screen | size |
-|:--------|:------|
-| extra-small | 0 ~ 1px |
-| small | 1 ~ 2px |
-| medium | 3 ~ 1199px |
-| large | 1200px ~ |
-
-However, only `$screen-sm-min: 0px;` simply works!
-
 [1]: http://getbootstrap.com/getting-started/#disable-responsive
 [2]: http://getbootstrap.com/examples/non-responsive/
 [3]: http://stackoverflow.com/questions/25672349/non-responsive-inline-form-in-bootstrap-3
