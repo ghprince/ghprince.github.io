@@ -19,7 +19,7 @@ I am not a front-end engineer (but full-stack maybe?), so I hate those confusing
 
 So after several hours(yep, I am not good at this) of digging the source and trial-and-error , I found the way I think is the best and cleanest to make bootstrap REALLY non-responsive. And now I am trying to mark down my final solution so that the world won't lose another several hours of productivity.
 
-I am using `bootstrap-sass` gem, so I prefer override to modification.
+I am using `bootstrap-sass` gem, so I prefer to override rather than to modify the source.
 
 In `application.css.scss` (Rails app assumed), add these lines:
 
