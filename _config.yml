@@ -2,7 +2,7 @@
 title: Yet another awesome title
 email: ghprince@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This blogs contains all tech/code related posts by Gordon Gao.
+  This blog contains all tech/code related posts by Gordon Gao.
   Go to ygao.me for his non-tech posts.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ghprince.github.io" # the base hostname & protocol for your site

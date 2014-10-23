@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Run Rubymine and Minecraft with Java 7/8 in Yosemite"
-date:   2014-10-22 17:37:30
+title : "Run Rubymine and Minecraft with Java 7/8 in Yosemite"
+date  : 2014-10-22 17:37:30
 ---
 
 Apple recently released OSX 10.10 Yosemite, and after upgrading (because I just cannot stand the red dot on any App icon) I found two of my Java-based daily apps refused to start.
@@ -110,6 +110,6 @@ However I do have an not-so-pretty workaround --- *AppleScript*!
 
 Q: Why after so many year, in the era of Java 8, apps like RubyMine (all IntelliJ apps actually) and Minecraft are still using Java 6 by default?
 
-A: I believe that is due to a [bug][1] of Java 7/8 which forces the use of discrete GPU on your Mac and hence more battery drain. But I love my Macbook Air, which does not have a discrete GPU! LOL!
+A: I believe that is due to a [bug][1] of Java 7/8 which forces the use of discrete GPU on your Mac and hence more battery drain. But I love my MacBook Air, which does not have a discrete GPU! LOL!
 
 [1]: https://bugs.openjdk.java.net/browse/JDK-8041900

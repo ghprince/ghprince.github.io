@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Truly Non-Responsive Bootstrap 3"
-date:   2014-09-05 03:56:47
+title : "Truly Non-Responsive Bootstrap 3"
+date  : 2014-09-05 03:56:47
 ---
 
 Today I tried to make one of my Bootstrap 3 (v3.2.0) based website non-responsive because it is a pure desktop web app. I started with the [Official Guide][1] but it has several problems.
