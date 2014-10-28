@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "$ and [ in Regexp and Tcl"
+title : $ and [ in Regexp and Tcl
 date  : 2013-08-27 19:26:00
 ---
 
@@ -28,4 +28,4 @@ However if the character after "$" is non-alphabet, the subsitituion is turned o
     expect -re "\\$"        # matches literal $
     expect -re "\$"         # matches anything, because $ means end-of-line here
 
-Similar rule applies to **[** , because it also has special meaning in both Tcl and regexp. 
+Similar rule applies to **[** , because it also has special meaning in both Tcl and regexp.

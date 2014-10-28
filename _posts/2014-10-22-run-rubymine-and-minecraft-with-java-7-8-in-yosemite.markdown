@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "Run Rubymine and Minecraft with Java 7/8 in Yosemite"
+title : Run Rubymine and Minecraft with Java 7/8 in Yosemite
 date  : 2014-10-22 17:37:30
 ---
 
@@ -24,7 +24,7 @@ It turned out that I have to use two different approachs to make these two apps 
 1. Here I assume the applications are installed at `/Applications`
 
 2. Check your version and location of your installation of Java.
-    
+
     Here is mine.
 
         % java -version

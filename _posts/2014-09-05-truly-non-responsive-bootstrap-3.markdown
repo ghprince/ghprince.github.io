@@ -1,6 +1,6 @@
 ---
 layout: post
-title : "Truly Non-Responsive Bootstrap 3"
+title : Truly Non-Responsive Bootstrap 3
 date  : 2014-09-05 03:56:47
 ---
 
