@@ -4,7 +4,7 @@ title : Getting Rid of Annoying "(2)" after Mac Computer Name
 date  : 2014-10-28 10:31:22
 ---
 
-I had this problem ever since I upgraded to Yosemite. After I searched around, someone had the similar issue on different releases of OSX.
+I had this problem ever since I upgraded to Yosemite. After I searched around, people had the similar issue on different releases of OSX.
 
 Here are the basic symptoms.
 
